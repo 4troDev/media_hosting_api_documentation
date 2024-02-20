@@ -1,0 +1,22 @@
+# CODEOWNERS file Media hosting api docs
+
+# Specify default code owners for the entire repository
+*  @4trodev  @SxMAbel
+
+# Specify code owners for documentation directory
+/docs/* @4trodev
+
+# Specify code owners for configuration files
+/docusaurus.config.js @@4trodev
+
+# Specify code owners for blog content
+/website/blog/* @4trodev
+
+# Specify code owners for versioned documentation
+/versioned_docs/* @4trodev
+
+# Specify code owners for static assets (images, etc.)
+/static/* @4trodev
+
+# Specify code owners for website files
+/website/* @4trodev
